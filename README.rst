@@ -59,7 +59,6 @@ Authors
 
 ::
 
-    Uberi <me@anthonyz.ca> (Anthony Zhang)
     Author <mohammadhasananisiqom@gmail.com> (Mohammad Hasan Anisi)
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
