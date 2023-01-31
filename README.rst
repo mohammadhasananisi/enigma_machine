@@ -15,19 +15,20 @@ Examples
 
 
 See Enigma class in enigma_machine.py
-.. code::python 
-    
-enigma_class = Enigma(
-        rotors = ("I","II","III")
-        reflector = "UKW-B"
-        ringSettings = "ABC"
-        ringPositions = "DEF"
-        plugboard = "AT BS DE FM IR KN LZ OW PV XY"
-        
-        )
 
-        result = enigma_class.encode("code || text")
-        print(result)
+.. code:: python
+
+    enigma_class = Enigma(
+            rotors = ("I","II","III")
+            reflector = "UKW-B"
+            ringSettings = "ABC"
+            ringPositions = "DEF"
+            plugboard = "AT BS DE FM IR KN LZ OW PV XY"
+            
+            )
+
+            result = enigma_class.encode("code || text")
+            print(result)
 ::
 
 Or
