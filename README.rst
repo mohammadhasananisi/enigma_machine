@@ -11,8 +11,8 @@ The `library reference <https://docs.python.org/3/library/tkinter.html>`__ docum
 
 Examples
 ----------
-![Demo Photo](./enigma.png)
-
+.. ![Demo Photo]()
+<img src="./enigma.png" />
 
 See Enigma class in enigma_machine.py
 .. code::python 
@@ -52,21 +52,6 @@ To use all of the functionality of the library, you should have:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This usually happens when you're using a Raspberry Pi board, which doesn't have audio input capabilities by itself. This causes the default microphone used by PyAudio to simply block when we try to read it. If you happen to be using a Raspberry Pi, you'll need a USB sound card (or USB microphone).
-
-Once you do this, change all instances of ``Microphone()`` to ``Microphone(device_index=MICROPHONE_INDEX)``, where ``MICROPHONE_INDEX`` is the hardware-specific index of the microphone.
-
-To figure out what the value of ``MICROPHONE_INDEX`` should be, run the following code:
-
-.. code:: python
-
-    import speech_recognition as sr
-    for index, name in enumerate(sr.Microphone.list_microphone_names()):
-        print("Microphone with name \"{1}\" found for `Microphone(device_index={0})`".format(index, name))
-
-This will print out something like the following:
-
-::
 
 Authors
 -------
