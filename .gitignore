@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+
+*/node_modules
 /.pnp
 .pnp.js
 
@@ -23,3 +25,7 @@ yarn-debug.log*
 yarn-error.log*
 __pycache__
 */__pycache__
+
+.expo
+.expo-shared
+.idea

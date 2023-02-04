@@ -48,18 +48,13 @@ Requirements
 
 To use all of the functionality of the library, you should have:
 
-* **Python** 2.6, 2.7, or 3.3+ (required)
+* **Python**  3.3+ (required)
 * **Tkinter** 3.10+ (required)
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Authors
 -------
 
-::
+Keep In Touch with Mohammad Hasan Anisi `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammadhasan-anisi-159757202>`__.
 
-    Author <mohammadhasananisiqom@gmail.com> (Mohammad Hasan Anisi)
-
-Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
-
+Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
