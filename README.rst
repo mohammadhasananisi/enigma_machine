@@ -55,6 +55,6 @@ To use all of the functionality of the library, you should have:
 Authors
 -------
 
-Keep In Touch with Mohammad Hasan Anisi `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammadhasan-anisi-159757202>`__.
+Keep In Touch with Mohammad Hasan Anisi `Email <mailto:mohammadhasananisiqom@gmail.com>`__ - `github <https://github.com/mohammadhasananisi>`__ - `Telegram <https://t.me/mohammadhasananisi>`__ - `Linkedin <https://linkedin.com/in/mohammad-hasan-anisi>`__.
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__ !
